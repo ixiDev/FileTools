@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="filename_color">#333030</color>
+    <color name="filedesc_color">#919191</color>
+</resources>

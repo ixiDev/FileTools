@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileItemViewLib</string>
+    <string name="filename_ex">file name</string>
+    <string name="filedesc_ex">file desc</string>
+</resources>

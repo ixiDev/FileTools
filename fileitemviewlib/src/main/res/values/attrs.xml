@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FileView">
+        <attr name="fileName" format="string" />
+        <attr name="fileDesc" format="string" />
+        <attr name="fileIcon" />
+        <attr name="nameColor" format="color"/>
+        <attr name="descColor" format="color"/>
+    </declare-styleable>
+
+
+</resources>
